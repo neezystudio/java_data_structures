@@ -24,9 +24,9 @@ public class timeComplexityDemo {
 //            System.out.println(item + ",");
 //        }
     }
-    public int findSum(int n){
-        return (n + 1) * n /2;
-    }
+//    public int findSum(int n){
+//        return (n + 1) * n /2;
+//    }
     public  int findSum2(int n){
         int sum = 0;
         for(int i=1;i<=n;i++){
